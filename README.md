@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola 👋, soy Damián López Peduzzi
+#### Jr Data Analyst - Logística
+![Jr Data Analyst - Logística](https://document-export.canva.com/TaAwE/DAFijmTaAwE/17/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T195400Z&X-Amz-Expires=19738&X-Amz-Signature=5c3b7629fe14b9eb508936e88b358b9aa956b374e1ae40b782f8a273af5ea69d&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2006%20Jun%202023%2001%3A22%3A58%20GMT)
 
-<!--
-**pridegold/pridegold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 25 años, vivo en ciudadela buenos aires. Soy apasionado por las criptomonedas y el analisis de datos.
 
-Here are some ideas to get you started:
+Skills: Excel/PowerBi/Tableu/SQL/Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Contactame: damian.lopez.peduzzi@hotmail.com 
+- ⚡ Fast Learning 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/pridegold)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dami%C3%A1n-ariel-l%C3%B3pez-peduzzi-47b2b015b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/damiaanlopezp/)  
