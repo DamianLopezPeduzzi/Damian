@@ -4,7 +4,7 @@
 
 Tengo 25 años, vivo en ciudadela buenos aires. Soy apasionado por las criptomonedas y el analisis de datos.
 
-Skills: Excel/PowerBi/Tableu/SQL/Python
+Skills: Excel/PowerBi/SQL/Python
 
 - 📫 Contactame: damian.lopez.peduzzi@hotmail.com 
 - ⚡ Fast Learning 
