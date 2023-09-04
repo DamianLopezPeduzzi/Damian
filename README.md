@@ -1,6 +1,7 @@
 ### Hola 👋, soy Damián López Peduzzi
 #### Data Analyst
-![](https://github.com/pridegold/Damian/assets/116690423/60c6ddef-5d02-4939-b9aa-587897f56ba5)
+
+[![](https://www.canva.com/)](https://www.canva.com/design/DAFijmTaAwE/9tBxwuNOa3DsJEdwtxJK1w/view?utm_content=DAFijmTaAwE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 Tengo 25 años, vivo en Ciudadela Buenos Aires, Argetina. 
