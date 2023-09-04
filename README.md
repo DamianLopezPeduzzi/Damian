@@ -1,6 +1,6 @@
 ### Hola 👋, soy Damián López Peduzzi
 #### Data Analyst
-![](https://document-export.canva.com/TaAwE/DAFijmTaAwE/19/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20230628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230628T071747Z&X-Amz-Expires=52317&X-Amz-Signature=94c6bfbaccd698d57092971600e63218c39ed18814b6b48c8e5f9f256253fb05&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2028%20Jun%202023%2021%3A49%3A44%20GMT)
+![](C:\Users\damia\Downloads\Portada Perfil de Linkedin Profesional Moderno Oscuro.png)
 
 Tengo 25 años, vivo en Ciudadela Buenos Aires, Argetina. 
 Soy apasionado por las criptomonedas y el análisis de datos.
