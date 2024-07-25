@@ -6,7 +6,7 @@
 Tengo 26 años, vivo en Ciudadela Buenos Aires, Argetina. 
 Soy apasionado por las criptomonedas y el análisis de datos.
 
-Skills: Excel | PowerBi - MS Certified | SQL |Jira
+Skills: Excel | PowerBi - MS Certified | SQL | Jira
 
 - 📫 Contactame: damian.lopez.peduzzi@hotmail.com 
 - ⚡ Fast Learning 
