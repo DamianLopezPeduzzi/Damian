@@ -3,7 +3,7 @@
 
 [![Portada-Perfil-de-Linkedin-Profesional-Moderno-Oscuro-1.png](https://i.postimg.cc/rFjhznGn/Portada-Perfil-de-Linkedin-Profesional-Moderno-Oscuro-1.png)](https://postimg.cc/zVLwckcK)
 
-Tengo 26 años, vivo en Ciudadela Buenos Aires, Argentina. 
+Tengo 27 años, vivo en Ciudadela Buenos Aires, Argentina. 
 Soy apasionado por las criptomonedas y el análisis de datos.
 
 Skills: Excel | PowerBi - MS Certified | SQL | Jira
